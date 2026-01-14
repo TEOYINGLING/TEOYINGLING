@@ -9,6 +9,7 @@
 - 🎯Through this course, I aim to grow my creativity and technical skills to contribute meaningfully in the field of multimedia software.
 - 🎓I have previously studied at SJK(C) KULAI 1, SMK SULTAN IBRAHIM, and UTM FOUNDATION IN PHYSICAL SCIENCE.
 - 📫How to reach me: teoyingling@graduate.utm.my
+- 😼My E-Portfolio:https://www.canva.com/design/DAG-X20xMR0/TJGYX30uFUDbzOEQY5TfAg/edit?utm_content=DAG-X20xMR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## My YEAR1 SEM1 Course:
 - SECI1013 Discrete Structure
