@@ -18,9 +18,16 @@
 - SECR1013 Digital Logic
 - ULRS1032 Integrity And Anti-Corruption Course
 
+## Part-Time Job Experience:
+-Yang Tze Kiang Tailor Sdn Bhd（Salesperson)
+
+-iORA(Salesperson)
+
 ## Languages and Tools:
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/6bde4e1e-6f60-40e8-b47d-272c8430e244" />
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ac28ff5b-7c41-4a0f-b58e-1f3cce3b07ba" />
 
 ## Social Media:
 LinkedIn: www.linkedin.com/in/ying-ling-teo-4b1798390
+
+Ig: https://www.instagram.com/yingling.teo.10?igsh=eDNhM3Buemt4a21m&utm_source=qr
